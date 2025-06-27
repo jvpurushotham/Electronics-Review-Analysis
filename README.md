@@ -12,11 +12,11 @@ Electronics-Review-Analysis/
 │   └── Tabs_Reviews_Analysis.ipynb        
 │           
 ├── Datasets/          
-│   │   ├── flipkart_reviews_laptops.csv
-│   │   ├── flipkart_reviews_mobiles.csv
-│   │   └── flipkart_reviews_tabs.csv
-│   │   ├── laptops_cleaned_reviews.csv         
-│   │   ├── Mobiles_cleaned_info.csv       
+│   │   ├── flipkart_reviews_laptops.csv          
+│   │   ├── flipkart_reviews_mobiles.csv        
+│   │   └── flipkart_reviews_tabs.csv      
+│   │   ├── laptops_cleaned_reviews.csv           
+│   │   ├── Mobiles_cleaned_info.csv        
 │   │   └── Tabs_cleaned_reviews.csv          
 │   │   ├── Taptops.csv        
 │   │   ├── Mobiles.csv      
