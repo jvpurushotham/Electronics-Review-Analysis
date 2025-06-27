@@ -8,25 +8,25 @@ Electronics-Review-Analysis/
 │     
 ├── Data Analysis/ ├── Laptops_Reviews_Analysis.ipynb  
 |                  ├── Mobiless_Reviews_Analysis.ipynb   
-|                  └── Tabs_Reviews_Analysis.ipynb    
+|                  └── Tabs_Reviews_Analysis.ipynb     
 ├── Datasets/ ├── flipkart_reviews_laptops.csv     
-|             ├── flipkart_reviews_mobiles.csv      
+|             ├── flipkart_reviews_mobiles.csv        
 |             ├── flipkart_reviews_tabs.csv      
 |             ├── Laptops_cleaned_Reviews.csv    
-|             ├── Mobiless_cleaned_Reviews.csv  
-|             ├── Tabs_cleaned_Reviews.csv  
-|             ├── Laptops.csv  
+|             ├── Mobiless_cleaned_Reviews.csv    
+|             ├── Tabs_cleaned_Reviews.csv    
+|             ├── Laptops.csv    
 |             ├── Mobiles.csv   
 |             └── Taabs.csv   
-├── Presentation and Document/ ├── Electronic_Review_Analysis.pdf   
-|                              └── Review_Analysis_presentation.pptx
-├── Web Scrapping/ ├── Laptops_scrapping.ipynb
-|                  ├── Mobiles_scrapping.ipynb
-|                  └── Tabs_scrapping.ipynb
-├── Dashboard/ ├── Laptops.py
-|              ├── Mobiles.py
-|              └── Tabs.py
-└── requirements.txt        
+├── Presentation and Document/ ├── Electronic_Review_Analysis.pdf     
+|                              └── Review_Analysis_presentation.pptx      
+├── Web Scrapping/ ├── Laptops_scrapping.ipynb        
+|                  ├── Mobiles_scrapping.ipynb        
+|                  └── Tabs_scrapping.ipynb        
+├── Dashboard/ ├── Laptops.py        
+|              ├── Mobiles.py          
+|              └── Tabs.py        
+└── requirements.txt         
 
 ## Data Collection & Preprocessing   
 
