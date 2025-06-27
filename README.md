@@ -4,29 +4,41 @@ An end-to-end data science project for scraping, analyzing, and visualizing  cus
 
 ## Project Structure   
 
-Electronics-Review-Analysis/   
-│     
-├── Data Analysis/ ├── Laptops_Reviews_Analysis.ipynb  
-|                  ├── Mobiless_Reviews_Analysis.ipynb   
-|                  └── Tabs_Reviews_Analysis.ipynb     
-├── Datasets/ ├── flipkart_reviews_laptops.csv     
-|             ├── flipkart_reviews_mobiles.csv        
-|             ├── flipkart_reviews_tabs.csv      
-|             ├── Laptops_cleaned_Reviews.csv    
-|             ├── Mobiless_cleaned_Reviews.csv    
-|             ├── Tabs_cleaned_Reviews.csv    
-|             ├── Laptops.csv    
-|             ├── Mobiles.csv   
-|             └── Taabs.csv   
-├── Presentation and Document/ ├── Electronic_Review_Analysis.pdf     
-|                              └── Review_Analysis_presentation.pptx      
-├── Web Scrapping/ ├── Laptops_scrapping.ipynb        
-|                  ├── Mobiles_scrapping.ipynb        
-|                  └── Tabs_scrapping.ipynb        
-├── Dashboard/ ├── Laptops.py        
-|              ├── Mobiles.py          
-|              └── Tabs.py        
-└── requirements.txt         
+Electronics-Review-Analysis/          
+│                      
+├── Data Analysis/      
+│   ├── Laptops_Reviews_Analysis.ipynb.ipynb       
+│   ├── Mobiles_Reviews_Analysis.ipynb       
+│   └── Tabs_Reviews_Analysis.ipynb        
+│           
+├── Datasets/          
+│   │   ├── flipkart_reviews_laptops.csv
+│   │   ├── flipkart_reviews_mobiles.csv
+│   │   └── flipkart_reviews_tabs.csv
+│   │   ├── laptops_cleaned_reviews.csv         
+│   │   ├── Mobiles_cleaned_info.csv       
+│   │   └── Tabs_cleaned_reviews.csv          
+│   │   ├── Taptops.csv        
+│   │   ├── Mobiles.csv      
+│   │   └── Tabs.csv       
+│           
+├── Presentation and Document/         
+│   ├── Electronic_Review_Analysis.pdf       
+│   └── Review_Analysis_presentation.pptx      
+│           
+├── Web Scrapping/         
+│   ├── Laptops_scrapping.ipynb          
+│   ├── Mobiles_scrapping.ipynb        
+│   └── Tabs_scrapping.ipynb       
+│        
+├── Dashboard/        
+│   ├── Laptops.py        
+│   ├── Mobiles.py         
+│   └── Tabs.py       
+│    
+├── requirements.txt        
+└── README.md    
+
 
 ## Data Collection & Preprocessing   
 
