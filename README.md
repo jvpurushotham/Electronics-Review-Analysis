@@ -1,8 +1,8 @@
-# Flipkart Product Review Analysis & Dashboard   
-### Demo Links
-** Laptops: https://electronics-review-analysis-laptops-dashboard.streamlit.app**
-** Mobiles: https://electronics-review-analysis-mobiles-dashboard.streamlit.app**
-** Tabs: https://electronics-review-analysis-tabs-dashboard.streamlit.app**
+# Flipkart Product Review Analysis & Dashboard    
+### Demo Links   
+**Laptops: https://electronics-review-analysis-laptops-dashboard.streamlit.app**   
+**Mobiles: https://electronics-review-analysis-mobiles-dashboard.streamlit.app**   
+**Tabs: https://electronics-review-analysis-tabs-dashboard.streamlit.app**   
 
 An end-to-end data science project for scraping, analyzing, and visualizing  customer reviews for Mobiles, Laptops, and Tablets from Flipkart.  
 
